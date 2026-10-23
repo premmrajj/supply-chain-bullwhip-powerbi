@@ -1,0 +1,24 @@
+{
+  "name": "SupplyChain_DDMRP_Executive",
+  "dataColors": [
+    "#0F2942",
+    "#0284C7",
+    "#DC2626",
+    "#F59E0B",
+    "#16A34A",
+    "#64748B",
+    "#4338CA",
+    "#0D9488"
+  ],
+  "background": "#F8FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#0284C7",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspace": [{ "color": { "solid": { "color": "#F8FAFC" } } }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E2E8F0" } }, "radius": 8 }]
+      }
+    }
+  }
+}

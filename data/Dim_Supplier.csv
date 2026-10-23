@@ -1,0 +1,9 @@
+SupplierID,SupplierName,Country,Region,ContractedLeadTimeDays,ReliabilityTier,VarianceProfile,MeanDelay,StdevDelay
+SUP-001,Apex Silicon Global,Taiwan,East Asia,45,Tier 3 - High Risk,High,12,9
+SUP-002,Shenzhen Precision Micro,China,East Asia,30,Tier 3 - High Risk,High,8,7
+SUP-003,Kyoto Advanced Components,Japan,East Asia,21,Tier 1 - Strategic,Low,0,1.5
+SUP-004,Vanguard Power Systems,United States,North America,14,Tier 1 - Strategic,Low,0.5,1.8
+SUP-005,Nordic Sensor Dynamics,Germany,Europe,28,Tier 2 - Preferred,Medium,3,4
+SUP-006,Pacific Precision Mold,Vietnam,Southeast Asia,18,Tier 2 - Preferred,Medium,2,3.5
+SUP-007,Seoul Semiconductor Works,South Korea,East Asia,35,Tier 3 - High Risk,High,9,8
+SUP-008,Atlas Alloy & Chassis,Mexico,North America,10,Tier 1 - Strategic,Low,0,1.2

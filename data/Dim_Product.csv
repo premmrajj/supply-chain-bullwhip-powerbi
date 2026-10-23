@@ -1,0 +1,25 @@
+ProductSKU,ProductName,Category,UnitCost,SellingPrice,PrimarySupplierID,RedBufferMin,YellowBufferTarget,GreenBufferMax
+SKU-MCU-101,Dual-Core 32-bit Cortex MCU,Semiconductors,28.5,52.0,SUP-001,120,350,700
+SKU-MCU-102,Ultra-Low Power IoT MCU,Semiconductors,18.2,36.0,SUP-001,150,400,850
+SKU-MCU-103,Automotive Grade Controller,Semiconductors,65.0,118.0,SUP-007,80,240,500
+SKU-MCU-104,Industrial DSP SoC 400MHz,Semiconductors,95.0,168.0,SUP-007,60,180,380
+SKU-MCU-105,BLE 5.3 RF SoC Integrated,Semiconductors,14.8,31.0,SUP-002,200,550,1100
+SKU-MCU-106,High-Voltage Gate Driver IC,Semiconductors,22.0,42.0,SUP-002,140,380,800
+SKU-PWR-201,24V 15A DIN-Rail Power Supply,Power Modules,48.0,89.0,SUP-004,75,220,450
+SKU-PWR-202,48V Telecom Rectifier Module,Power Modules,125.0,219.0,SUP-004,40,120,260
+SKU-PWR-203,DC-DC Buck Converter 5V/10A,Power Modules,12.5,26.0,SUP-003,220,600,1250
+SKU-PWR-204,Li-Ion BMS Protection Board,Power Modules,32.0,62.0,SUP-002,110,320,680
+SKU-PWR-205,Isolated IGBT Gate Power Pack,Power Modules,54.0,98.0,SUP-003,65,190,400
+SKU-PWR-206,Compact AC/DC Converter 12V,Power Modules,19.5,38.0,SUP-004,160,460,950
+SKU-SEN-301,Tri-Axis MEMS Accelerometer,Sensors,8.4,19.5,SUP-005,250,700,1400
+SKU-SEN-302,Differential Pressure Transducer,Sensors,44.0,84.0,SUP-005,70,200,420
+SKU-SEN-303,Infrared Thermal Array Sensor,Sensors,78.0,145.0,SUP-003,45,130,280
+SKU-SEN-304,Precision PT100 RTD Probe,Sensors,24.0,49.0,SUP-005,130,360,750
+SKU-SEN-305,Optical TOF Distance Sensor,Sensors,36.5,72.0,SUP-003,90,260,550
+SKU-SEN-306,Hall-Effect Current Sensor 50A,Sensors,16.0,34.0,SUP-005,180,500,1050
+SKU-ENC-401,IP67 Die-Cast Aluminum Enclosure,Enclosures,35.0,68.0,SUP-008,90,260,520
+SKU-ENC-402,19-inch 2U Rackmount Steel Chassis,Enclosures,82.0,148.0,SUP-008,40,110,230
+SKU-ENC-403,Vented Polycarbonate Housing,Enclosures,11.2,24.0,SUP-006,210,600,1200
+SKU-ENC-404,Extruded Heatsink Fin 150mm,Enclosures,9.8,21.0,SUP-006,240,680,1350
+SKU-ENC-405,NEMA 4X Stainless Steel Box,Enclosures,110.0,195.0,SUP-008,30,85,180
+SKU-ENC-406,Molded Silicon Seal & Gasket Kit,Enclosures,4.5,11.0,SUP-006,350,1000,2100

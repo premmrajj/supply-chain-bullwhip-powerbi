@@ -1,0 +1,23 @@
+# Power BI Temporary and Backup Files
+*.tmp
+*.temp
+*~$*
+~*
+*.pbip
+*.pbit.backup
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Windows System Files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio Code & IDE Files
+.vscode/
+.idea/
