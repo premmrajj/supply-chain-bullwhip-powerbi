@@ -3,6 +3,8 @@
 # 📦 Global Supply Chain Resilience & Anti-Bullwhip Analytics
 ### *An Executive-Grade Business Intelligence & Demand-Driven MRP (DDMRP) Platform*
 
+[![Direct Download Power BI Report](https://img.shields.io/badge/📥_Download_&_Open-Power_BI_Dashboard_(.pbix)-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/premmrajj/supply-chain-bullwhip-powerbi/raw/main/dashboard.pbix)
+
 [![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![DAX](https://img.shields.io/badge/DAX-Advanced_Statistical-0078D4)](https://learn.microsoft.com/en-us/dax/)
 [![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)](https://www.python.org/)
@@ -10,6 +12,9 @@
 [![Status](https://img.shields.io/badge/Status-Complete-success)]()
 
 </div>
+
+> 📊 **Quick Access:** Click the yellow button above or [**Download `dashboard.pbix` Directly**](https://github.com/premmrajj/supply-chain-bullwhip-powerbi/raw/main/dashboard.pbix) to open the interactive 3-page report directly in Microsoft Power BI Desktop.
+
 
 ---
 
